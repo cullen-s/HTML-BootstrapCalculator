@@ -1,0 +1,55 @@
+body {
+	background: black;
+}
+
+div {
+	margin: auto;
+	width: 50%;
+	padding: 5px;
+}
+
+#resultbox {
+	display: inline-block;
+	margin: 0 auto;
+	margin-right: auto;
+	margin-left: auto;
+	width: 100%;
+	text-align: center;
+
+}
+
+#row1 {
+	display: inline-block;
+	margin: auto;
+	width: 100%;
+}
+
+#row2 {
+	display: inline-block;
+	margin: auto;
+	width: 100%;
+}
+
+#row3 {
+	display: inline-block;
+	margin: auto;
+	width: 100%;
+}
+
+#row4 {
+	display: inline-block;
+	margin: auto;
+	width: 100%;
+}
+
+#row5 {
+	display: inline-block;
+	margin: auto;
+	width: 100%;
+}
+
+button {
+	height: 50px;
+	width: 75px;
+}
+
